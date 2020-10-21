@@ -36,7 +36,16 @@ def game_hash
                         :assists => "6",
                         :steals => "3",
                         :blocks => "8",
-                        :slam_dunks => "5"},{}]
+                        :slam_dunks => "5"},
+                  {:player_name => "Jason Terry",
+                  :number => "11",
+                  :shoe => "17",
+                  :points => "17",
+                  :rebounds => "19",
+                  :assists => "10",
+                  :steals => "3",
+                  :blocks => "1",
+                  :slam_dunks => "15"}]
         }
 
   :away => {}
