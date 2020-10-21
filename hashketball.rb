@@ -49,7 +49,7 @@ def game_hash
         }
 
   :away => {:team_name => "Brooklyn Nets",
-            :colors => ["Black","White"],
+           :colors => ["Black","White"],
            :players => []}
 }
 
