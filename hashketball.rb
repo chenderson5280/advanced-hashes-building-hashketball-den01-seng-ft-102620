@@ -47,7 +47,7 @@ def game_hash
                   :blocks => 11,
                   :slam_dunks => 1}]
         },
-  :away => {:team_name => "Charlotte Hornets",
+ :away => {:team_name => "Charlotte Hornets",
            :colors => ["Turquoise", "Purple"],
            :players => [{:player_name => "Jeff Adrien",
                        :number => 4,
@@ -82,9 +82,10 @@ def game_hash
                       :points => 33,
                       :rebounds => 3,
                       :assists => 2,
-                      :steals => 2,
-                      :blocks => 7,
-                      :slam_dunks => 2},{}]}
+                      :steals => 1,
+                      :blocks => 1,
+                      :slam_dunks => 0},
+            {}]}
 }
 
 
