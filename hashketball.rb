@@ -10,8 +10,8 @@ def game_hash
 
 end
 
-The :players key points to an Array of Hashes. Each Hash in the Array should contain 
-the players' stats. Each stat should be a key that points 
+The :players key points to an Array of Hashes. Each Hash in the Array should contain
+the players' stats. Each stat should be a key that points
 to a value for that stat. The keys should be:'
 
 :player_name
