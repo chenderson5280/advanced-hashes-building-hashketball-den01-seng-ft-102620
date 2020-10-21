@@ -48,7 +48,7 @@ def game_hash
                   :slam_dunks => "1"}]
         }}
 
-  :away => {:team_name => "Brooklyn Nets",
+  :away=> {:team_name => "Brooklyn Nets",
             :colors => ["Black","White"],
             :players => []}
 }
